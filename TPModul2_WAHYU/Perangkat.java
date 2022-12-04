@@ -1,8 +1,8 @@
 public class Perangkat {
 
-    String drive;
-    int ram;
-    float processor;
+    protected String drive;
+    protected int ram;
+    protected float processor;
 
     Perangkat(String drive, int ram, float processor) {
         this.drive = drive;
