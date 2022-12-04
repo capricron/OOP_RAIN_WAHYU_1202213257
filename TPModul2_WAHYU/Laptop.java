@@ -1,10 +1,8 @@
-package Modul2.TP;
-
 public class Laptop extends Perangkat {
 
     protected boolean webcam;
 
-    Laptop(String drive, int ram, float processor, boolean webcam) {
+    public Laptop(String drive, int ram, float processor, boolean webcam) {
         super(drive, ram, processor);
         this.webcam = webcam;
     }
@@ -23,15 +21,15 @@ public class Laptop extends Perangkat {
     }
 
     public void bukaGame(String nama_game) {
-        System.out.printf("Laptop berhasil membuka game %s", nama_game);
+        System.out.printf("Laptop berhasil membuka game %s \n", nama_game);
     }
 
     public void kirimEmail(String email) {
-        System.out.printf("Laptop berhasil mengirim Email ke %s", email);
+        System.out.printf("Laptop berhasil mengirim Email ke %s \n", email);
     }
 
     public void kirimEmail(String email1, String email2) {
-        System.out.printf("Laptop berhasil mengirim Email ke %s dan %s", email1, email2);
+        System.out.printf("Laptop berhasil mengirim Email ke %s dan %s \n", email1, email2);
     }
 
 }

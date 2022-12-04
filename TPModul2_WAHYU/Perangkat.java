@@ -1,5 +1,3 @@
-package Modul2.TP;
-
 public class Perangkat {
 
     String drive;

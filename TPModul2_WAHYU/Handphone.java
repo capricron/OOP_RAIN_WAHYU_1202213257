@@ -1,5 +1,3 @@
-package Modul2.TP;
-
 public class Handphone extends Perangkat {
 
     boolean fingerprint;
