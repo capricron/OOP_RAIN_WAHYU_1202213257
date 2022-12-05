@@ -1,4 +1,4 @@
-package Modul1_WAHYU;
+package MODUL1_WAHYU;
 
 public class Menu {
     String name;
