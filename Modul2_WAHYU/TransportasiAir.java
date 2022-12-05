@@ -1,4 +1,4 @@
-package MODUL2_WAHYU;
+package Modul2_WAHYU;
 
 public class TransportasiAir {
 
