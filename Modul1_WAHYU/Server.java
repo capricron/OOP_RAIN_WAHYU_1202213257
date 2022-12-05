@@ -1,4 +1,4 @@
-package Modul1;
+package Modul1_WAHYU;
 
 import java.util.Scanner;
 
