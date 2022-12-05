@@ -1,4 +1,4 @@
-package Modul2_WAHYU;
+package MODUL2_WAHYU;
 
 public class Kapal extends TransportasiAir {
 

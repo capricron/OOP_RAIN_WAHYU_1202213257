@@ -1,4 +1,4 @@
-package Modul2_WAHYU;
+package MODUL2_WAHYU;
 
 public class MainApp {
     public static void main(String[] args) {
